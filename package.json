@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/healthcoda/react-native-twilio-video-android/issues"
   },
-  "homepage": "https://github.com/healthcoda/react-native-twilio-video-android#readme"
+  "homepage": "https://github.com/healthcoda/react-native-twilio-video-android#readme",
+  "dependencies": {
+    "prop-types": "15.6.1"
+  }
 }

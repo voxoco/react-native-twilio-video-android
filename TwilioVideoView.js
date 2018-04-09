@@ -4,7 +4,7 @@ import {
     View,
     // $FlowFixMe
 } from 'react-native';
-import { PropTypes } from 'react';
+import { PropTypes } from 'prop-types';
 
 module.exports = requireNativeComponent('RNTwilioVideoView', {
     propTypes: {
